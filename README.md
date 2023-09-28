@@ -1,16 +1,36 @@
-# inside
 
-A new Flutter project.
+# InSiDe - A Chat App
 
-## Getting Started
+-->Created using Flutter and FireBase 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features-
+1.Authentication using Google
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2.Splash Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.Group Chat Features
+
+4.Unique Chat UI
+
+5.Text and Image Sending system
+
+6.Profile Section
+
+7.Message saving/editing/eleting feature
+
+8.Chat GPT integration
+
+9.Last_seen feature
+
+## Future Goals-
+
+1.Implement Voice Chat Feature in Chats
+
+2.Audio And Video Call Features
+
+3.Story Feature
+
+
+## Links-
+Linked in-https://www.linkedin.com/in/ayushjain1101/
